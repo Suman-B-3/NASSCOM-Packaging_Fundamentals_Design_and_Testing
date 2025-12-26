@@ -3,7 +3,7 @@
 Semiconductor Packaging Workshop: Fundamentals and Testing Workshop
 -------------------------------------------------------------------
 
-Thermal Simulations of Semiconductor Packages with ANSYS:
+1. Thermal Simulations of Semiconductor Packages with ANSYS:
 
 - Setting up new ICEPACK Project <img width="1916" height="851" alt="image" src="https://github.com/user-attachments/assets/85d1b75b-5c34-4428-b807-837751797459" />
 
@@ -19,14 +19,18 @@ Thermal Simulations of Semiconductor Packages with ANSYS:
 - Thermal Conditions setup - For the die Source(1 Watt) <img width="1919" height="879" alt="image" src="https://github.com/user-attachments/assets/4130a088-70e3-424d-bced-b76b39b724cb" />
   - Source bondary condition setup on substrate(Temperature of substrate) <img width="1919" height="882" alt="image" src="https://github.com/user-attachments/assets/6aacb97c-ea95-44f8-b246-d6c2502d0c29" />
 
-- Assigning temperature Monitors for Substrate, Die and Underfill(Die)
-<img width="1915" height="866" alt="image" src="https://github.com/user-attachments/assets/6be9a275-ebe8-4ce2-a42f-b0091db5da4a" />
+- Assigning temperature Monitors for Substrate, Die and Underfill(Die) <img width="1915" height="866" alt="image" src="https://github.com/user-attachments/assets/6be9a275-ebe8-4ce2-a42f-b0091db5da4a" />
 
-- Start and Generate Meshing
-<img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/5bfed38d-b742-447d-8125-b8a4c7ec0132" />
+- Start and Generate Meshing <img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/5bfed38d-b742-447d-8125-b8a4c7ec0132" />
 
-- Setting Analysis and then Run validate(validating) 
-<img width="1914" height="935" alt="image" src="https://github.com/user-attachments/assets/41b1baa8-ecc5-406d-aa30-0317a34fd7cc" />
+- Setting Analysis and then Run validate(validating) and Run Analyze All <img width="1914" height="935" alt="image" src="https://github.com/user-attachments/assets/41b1baa8-ecc5-406d-aa30-0317a34fd7cc" />
+  - After simulation complete, to plot the field, select whole package... <img width="1919" height="967" alt="image" src="https://github.com/user-attachments/assets/abbfe836-d735-452b-840f-46d0b5d29841" /> <img width="557" height="418" alt="image" src="https://github.com/user-attachments/assets/8e16256d-e9f3-49b1-abab-dc82581bf3cf" />
+
+- Temperature Analysis Results <img width="1919" height="931" alt="image" src="https://github.com/user-attachments/assets/9941de08-4f12-4e57-8b89-33368810b48d" /> <img width="1918" height="937" alt="image" src="https://github.com/user-attachments/assets/6155313f-48aa-4e0a-a305-d1058024dd76" />
+
+
+2. Thermal Simulations of Semiconductor Packages with ANSYS:
+
 
 
 
