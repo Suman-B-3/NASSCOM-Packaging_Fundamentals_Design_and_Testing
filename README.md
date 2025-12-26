@@ -1,9 +1,34 @@
 # NASSCOM-Packaging-Fundamentals_of_Design_and_Testing - 2025
 
-Semiconductor Packaging Workshop: Fundamentals and Testing Workshop
+Semiconductor - Packaging Workshop: Fundamentals and Testing Workshop
 -------------------------------------------------------------------
 
-1. Thermal Simulations of Semiconductor Packages with ANSYS:
+1. Packaging Evolution: From Basics to 3D Integration:
+
+   - 1 - Introduction To Semiconductor Packaging And Industry Overview
+
+   - 2 - Understanding Package Requirements And Foundational Package Types
+
+   - 3 - Evolving Package Architectures - From Single Chip To Multi-Chip Modules
+
+   - 4 - Interposers Re-distribution Layers And 2.5D/3D Packaging Approaches
+
+   - 5 - Comparative Analysis And Selecting The Right Packaging Solution
+
+2. From Wafer to Package: Assembly and Manufacturing Essentials:
+
+   - 1 - Setting The Stage - Supply Chain And Facilities
+
+   - 2 - Wafer Pre-Preparation - Grinding And Dicing
+
+   - 3 - Wire Bond Packaging - Die Attach To Molding
+
+   - 4 - Flip Chip Assembly - Bump Formation And Underfill
+
+   - 5 - Wafer Level Packaging And Conclusion
+     
+
+3. Labs: Thermal Simulation of Semiconductor Packages with ANSYS:
 
 - Setting up new ICEPACK Project <img width="1916" height="851" alt="image" src="https://github.com/user-attachments/assets/85d1b75b-5c34-4428-b807-837751797459" />
 
@@ -28,8 +53,14 @@ Semiconductor Packaging Workshop: Fundamentals and Testing Workshop
 
 - Temperature Analysis Results <img width="1919" height="931" alt="image" src="https://github.com/user-attachments/assets/9941de08-4f12-4e57-8b89-33368810b48d" /> <img width="1918" height="937" alt="image" src="https://github.com/user-attachments/assets/6155313f-48aa-4e0a-a305-d1058024dd76" />
 
+4. From Wafer to Package: Assembly and Manufacturing Essentials:
 
-2. Thermal Simulations of Semiconductor Packages with ANSYS:
+   - 1 - Introduction to Package Testing and Electrical Functionality Checks
+
+   - 2 - Reliability and Performance Testing of Semiconductor Packages
+
+
+5. Package Design ans Modelling: Building a Semiconductor Package from Scratch
 
 
 
