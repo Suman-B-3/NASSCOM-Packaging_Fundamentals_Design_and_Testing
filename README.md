@@ -1,9 +1,11 @@
+--------------------------------------------------------------------------------------------------------------------------
 # NASSCOM-Packaging-Fundamentals_of_Design_and_Testing - 2025
 
 Semiconductor - Packaging Workshop: Fundamentals and Testing Workshop
 -------------------------------------------------------------------
 
 1. Packaging Evolution: From Basics to 3D Integration:
+   ---------------------------------------------------
 
    - 1 - Introduction To Semiconductor Packaging And Industry Overview
 
@@ -16,6 +18,7 @@ Semiconductor - Packaging Workshop: Fundamentals and Testing Workshop
    - 5 - Comparative Analysis And Selecting The Right Packaging Solution
 
 2. From Wafer to Package: Assembly and Manufacturing Essentials:
+   ---------------------------------------------------
 
    - 1 - Setting The Stage - Supply Chain And Facilities
 
@@ -29,6 +32,18 @@ Semiconductor - Packaging Workshop: Fundamentals and Testing Workshop
      
 
 3. Labs: Thermal Simulation of Semiconductor Packages with ANSYS:
+    -------------------------------------------------------------
+      
+   - 1 - Introduction And Getting Started With ANSYS Electronics Desktop
+
+   - 2 - Setting Up A Flip-Chip BGA Package
+
+   - 3 - Material Definitions And Thermal Power Sources
+
+   - 4 - Meshing And Running The Thermal Analysis
+
+   - 5 - Viewing Results And Exploring Other Package Types
+     
 
 - Setting up new ICEPACK Project <img width="1916" height="851" alt="image" src="https://github.com/user-attachments/assets/85d1b75b-5c34-4428-b807-837751797459" />
 
@@ -54,6 +69,7 @@ Semiconductor - Packaging Workshop: Fundamentals and Testing Workshop
 - Temperature Analysis Results <img width="1919" height="931" alt="image" src="https://github.com/user-attachments/assets/9941de08-4f12-4e57-8b89-33368810b48d" /> <img width="1918" height="937" alt="image" src="https://github.com/user-attachments/assets/6155313f-48aa-4e0a-a305-d1058024dd76" />
 
 4. From Wafer to Package: Assembly and Manufacturing Essentials:
+    ------------------------------------------------------------
 
    - 1 - Introduction to Package Testing and Electrical Functionality Checks
 
@@ -61,9 +77,22 @@ Semiconductor - Packaging Workshop: Fundamentals and Testing Workshop
 
 
 5. Package Design ans Modelling: Building a Semiconductor Package from Scratch
+   -----------------------------------------------------------------------------
+   
+   - 1 - Introduction to Package Cross-Section Modelling in ANSYS Electronics Desktop (AEDT)
+
+   - 2 - Creating the Die and Substrate in AEDT
+
+   - 3 - Adding Die Attach Material and Bond Pads
+     
+   - 4 - Wire Bond Creation and Material Assignment
+
+   - 5 - Applying Mold Compound and Finalizing the Package Model
+  
 
 
 
+--------------------------------------------------------------------------------------------------------------------------
 
 
 
