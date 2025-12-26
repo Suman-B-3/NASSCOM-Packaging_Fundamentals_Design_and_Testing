@@ -88,7 +88,38 @@ Semiconductor - Packaging Workshop: Fundamentals and Testing Workshop
    - 4 - Wire Bond Creation and Material Assignment
 
    - 5 - Applying Mold Compound and Finalizing the Package Model
+
   
+- Setting up new package from stratch, Setting up a Q3DDesign project <img width="1919" height="814" alt="image" src="https://github.com/user-attachments/assets/a9b21de2-34ad-44b9-898d-795db05b5af7" />
+- Creating a die (3mm x 3mm) with thickness of 0.2mm (silicon material )<img width="1919" height="819" alt="image" src="https://github.com/user-attachments/assets/f56273d0-c629-4d34-9760-adfbf064b3c7" />
+- Creating a substrate with thickness of 0.5mm(with proper axis's) <img width="1910" height="815" alt="image" src="https://github.com/user-attachments/assets/9c55d84d-572b-4be6-b00a-e0f64a36804d" />
+- Creating space b/w Die and substrate of 0.1um to add die-attach material <img width="1919" height="823" alt="image" src="https://github.com/user-attachments/assets/835479ee-593c-4e3a-bf3a-7c871effb6b0" />
+  - Adding die attach material <img width="1909" height="818" alt="image" src="https://github.com/user-attachments/assets/12174707-4062-499a-b563-b46f04e3c01e" />
+- Creating Bondpads on Substrate and Die with 0.005um thickness <img width="1916" height="822" alt="image" src="https://github.com/user-attachments/assets/11f122ae-678a-4ba7-a040-10c5b94a337e" />
+- Connecting the Bondpads with Bondwire <img width="1919" height="814" alt="image" src="https://github.com/user-attachments/assets/c2bb4a46-f664-40b6-ad88-e6ea89990ec6" />
+- Completing the package
+  - Die <img width="1919" height="815" alt="image" src="https://github.com/user-attachments/assets/a95994dc-a460-4ee4-8eb6-5adb4c1ad43a" />
+  - Die-attach <img width="1919" height="815" alt="image" src="https://github.com/user-attachments/assets/a961e4b0-66a0-4ef6-b939-6a536acbadf7" />
+  - Substrate <img width="1919" height="814" alt="image" src="https://github.com/user-attachments/assets/0c5f91e2-8bd5-4175-8c84-b7530b9dd2b2" />
+  - Die bondpads <img width="1918" height="815" alt="image" src="https://github.com/user-attachments/assets/ce09b97d-3a45-48d0-ad72-b8698d36ecf0" />
+  - Substrate bondpads <img width="1919" height="811" alt="image" src="https://github.com/user-attachments/assets/b5b2c48a-afe9-4d28-a8b0-acfe45afa862" />
+  - Bondwires connecting the Die bondpads and Substrate bondpads <img width="1915" height="818" alt="image" src="https://github.com/user-attachments/assets/51c3f40c-d8d8-440e-8efe-f4a86132edcf" />
+
+
+
+
+
+ 
+- Adding Mold/Epoxy material over substrate <img width="1919" height="816" alt="image" src="https://github.com/user-attachments/assets/2a0af421-d96a-4024-a852-b97e5844dec1" /> <img width="1919" height="818" alt="image" src="https://github.com/user-attachments/assets/b5316fd3-df0e-48c4-9209-4d49d58bfbac" />
+
+
+
+
+
+
+
+
+
 
 
 
