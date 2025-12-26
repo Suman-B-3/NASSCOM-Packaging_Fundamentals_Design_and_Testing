@@ -31,7 +31,7 @@ Semiconductor - Packaging Workshop: Fundamentals and Testing Workshop
    - 5 - Wafer Level Packaging And Conclusion
      
 
-3. Labs: Thermal Simulation of Semiconductor Packages with ANSYS:
+3. Labs: Thermal Simulation of Semiconductor Packages with ANSYS: (Project1.aedt)
     -------------------------------------------------------------
       
    - 1 - Introduction And Getting Started With ANSYS Electronics Desktop
@@ -76,7 +76,7 @@ Semiconductor - Packaging Workshop: Fundamentals and Testing Workshop
    - 2 - Reliability and Performance Testing of Semiconductor Packages
 
 
-5. Package Design ans Modelling: Building a Semiconductor Package from Scratch
+5. Package Design ans Modelling: Building a Semiconductor Package from Scratch: (Project2.aedt)
    -----------------------------------------------------------------------------
    
    - 1 - Introduction to Package Cross-Section Modelling in ANSYS Electronics Desktop (AEDT)
@@ -104,11 +104,6 @@ Semiconductor - Packaging Workshop: Fundamentals and Testing Workshop
   - Die bondpads <img width="1918" height="815" alt="image" src="https://github.com/user-attachments/assets/ce09b97d-3a45-48d0-ad72-b8698d36ecf0" />
   - Substrate bondpads <img width="1919" height="811" alt="image" src="https://github.com/user-attachments/assets/b5b2c48a-afe9-4d28-a8b0-acfe45afa862" />
   - Bondwires connecting the Die bondpads and Substrate bondpads <img width="1915" height="818" alt="image" src="https://github.com/user-attachments/assets/51c3f40c-d8d8-440e-8efe-f4a86132edcf" />
-
-
-
-
-
  
 - Adding Mold/Epoxy material over substrate <img width="1919" height="816" alt="image" src="https://github.com/user-attachments/assets/2a0af421-d96a-4024-a852-b97e5844dec1" /> <img width="1919" height="818" alt="image" src="https://github.com/user-attachments/assets/b5316fd3-df0e-48c4-9209-4d49d58bfbac" />
 
