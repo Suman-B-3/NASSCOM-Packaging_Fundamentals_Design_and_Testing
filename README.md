@@ -1,4 +1,4 @@
-# NASSCOM-Packaging_Fundamentals_Design_and_Testing - 2025
+# NASSCOM-Packaging-Fundamentals_of_Design_and_Testing - 2025
 
 Semiconductor Packaging Workshop: Fundamentals and Testing Workshop
 -------------------------------------------------------------------
